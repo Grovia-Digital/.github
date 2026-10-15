@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Grovia Digital. We get brands named in ChatGPT, Perplexity and Gemini, and prove it with open data. 525 AI answers in our open baseline. Named by Perplexity in 2 of 3 runs in October 2026. Open dataset under CC BY 4.0. Based in Dubai, serving the GCC and DACH since 2022.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1A2E"/>
+      <stop offset="1" stop-color="#12284A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .t{font-family:Segoe UI,Helvetica,Arial,sans-serif;fill:#FFFFFF}
+      .s{font-family:Segoe UI,Helvetica,Arial,sans-serif;fill:#A9B8CC}
+      .n{font-family:Segoe UI,Helvetica,Arial,sans-serif;fill:#00D9FF;font-weight:700}
+      .l{font-family:Segoe UI,Helvetica,Arial,sans-serif;fill:#C9D6E6}
+    </style>
+  </defs>
+  <rect width="1000" height="340" rx="18" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#00D9FF" stroke-width="1">
+    <circle cx="880" cy="70" r="40" fill="none"/>
+    <circle cx="880" cy="70" r="70" fill="none"/>
+    <circle cx="880" cy="70" r="100" fill="none"/>
+  </g>
+  <text x="48" y="82" class="t" font-size="44" font-weight="700">Grovia Digital</text>
+  <text x="48" y="118" class="s" font-size="19">We get brands named in ChatGPT, Perplexity and Gemini,</text>
+  <text x="48" y="144" class="s" font-size="19">and prove it with open data.</text>
+  <rect x="48" y="168" width="904" height="2" fill="url(#line)"/>
+
+  <g>
+    <rect x="48" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
+    <text x="66" y="242" class="n" font-size="34">525</text>
+    <text x="66" y="268" class="l" font-size="14">AI answers in our</text>
+    <text x="66" y="286" class="l" font-size="14">open baseline</text>
+
+    <rect x="280" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
+    <text x="298" y="242" class="n" font-size="34">2 of 3</text>
+    <text x="298" y="268" class="l" font-size="14">Perplexity runs naming</text>
+    <text x="298" y="286" class="l" font-size="14">us, Oct 2026 (was 0)</text>
+
+    <rect x="512" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
+    <text x="530" y="242" class="n" font-size="30">CC BY 4.0</text>
+    <text x="530" y="268" class="l" font-size="14">open dataset, every</text>
+    <text x="530" y="286" class="l" font-size="14">pulse published</text>
+
+    <rect x="744" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
+    <text x="762" y="242" class="n" font-size="34">Dubai</text>
+    <text x="762" y="268" class="l" font-size="14">serving the GCC and</text>
+    <text x="762" y="286" class="l" font-size="14">DACH since 2022</text>
+  </g>
+</svg>
