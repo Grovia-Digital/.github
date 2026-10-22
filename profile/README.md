@@ -33,8 +33,8 @@ measurement data, including on ourselves.
 In September 2026 we asked ChatGPT, Perplexity and Gemini 35 buyer questions, five
 times each. Across 525 answers, Grovia Digital was named 0 times. After changes to our
 own pages and profiles, Perplexity named us on a German buyer question in 2 of 3 runs
-on 8 October. On 22 October, ChatGPT named us in 6 of 12 measurements on questions from
-buyers in the UAE, on "ai visibility agency uae" in 3 of 3 runs. On our German and
+on 8 October. On 22 October, ChatGPT named us in 6 of 12 measurements on buyer questions
+about agencies in the UAE, on "ai visibility agency uae" in 3 of 3 runs. On our German and
 international questions no assistant named us that day (0 of 90), and Gemini has not
 named us so far. We publish every result.
 
