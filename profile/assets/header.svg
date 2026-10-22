@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Grovia Digital. We get brands named in ChatGPT, Perplexity and Gemini, and prove it with open data. 525 AI answers in our open baseline. Named by Perplexity in 2 of 3 runs in October 2026. Open dataset under CC BY 4.0. Based in Dubai, serving the GCC and DACH since 2022.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Grovia Digital. We get brands named in ChatGPT, Perplexity and Gemini, and prove it with open data. 525 AI answers in our open baseline. Named by ChatGPT in 6 of 12 measurements on UAE buyer questions on 22 October 2026. Open dataset under CC BY 4.0. Based in Dubai, serving the GCC and DACH since 2022.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1A2E"/>
@@ -34,9 +34,9 @@
     <text x="66" y="286" class="l" font-size="14">open baseline</text>
 
     <rect x="280" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
-    <text x="298" y="242" class="n" font-size="34">2 of 3</text>
-    <text x="298" y="268" class="l" font-size="14">Perplexity runs naming</text>
-    <text x="298" y="286" class="l" font-size="14">us, Oct 2026 (was 0)</text>
+    <text x="298" y="242" class="n" font-size="34">6 of 12</text>
+    <text x="298" y="268" class="l" font-size="14">ChatGPT answers naming</text>
+    <text x="298" y="286" class="l" font-size="14">us in the UAE (was 0)</text>
 
     <rect x="512" y="196" width="208" height="104" rx="12" fill="#0E2240" stroke="#1F3B63"/>
     <text x="530" y="242" class="n" font-size="30">CC BY 4.0</text>

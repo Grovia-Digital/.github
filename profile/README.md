@@ -31,9 +31,12 @@ measurement data, including on ourselves.
 ### 📊 Our own proof
 
 In September 2026 we asked ChatGPT, Perplexity and Gemini 35 buyer questions, five
-times each. Across 525 answers, Grovia Digital was named 0 times. In October, after
-changes to our own pages and profiles, Perplexity named us on a real buyer question
-in 2 of 3 runs. ChatGPT and Gemini did not yet (0 of 60). We publish both results.
+times each. Across 525 answers, Grovia Digital was named 0 times. After changes to our
+own pages and profiles, Perplexity named us on a German buyer question in 2 of 3 runs
+on 8 October. On 22 October, ChatGPT named us in 6 of 12 measurements on questions from
+buyers in the UAE, on "ai visibility agency uae" in 3 of 3 runs. On our German and
+international questions no assistant named us that day (0 of 90), and Gemini has not
+named us so far. We publish every result.
 
 → [Case: how Perplexity started naming Grovia Digital](https://www.grovia-digital.com/en/case-studies/grovia-named-by-perplexity/)
 
@@ -46,6 +49,7 @@ We publish every measurement as an open dataset under CC BY 4.0.
 | Baseline | 2–9 Sep 2026 | 525 |
 | Pulse P1 | 24 Sep 2026 | 114 |
 | Pulse P2 | 8 Oct 2026 | 90 |
+| Pulse P3 | 22 Oct 2026 | 114 |
 
 📁 [grovia-ai-visibility-index](https://github.com/Grovia-Digital/grovia-ai-visibility-index) · 🌐 [live index with diary](https://www.grovia-digital.com/en/geo-visibility-index/)
 
